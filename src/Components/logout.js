@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import * as firebase from 'firebase';
+import firebase from 'firebase';
 import RaisedButton from 'material-ui/RaisedButton';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 export default class Logout extends Component{

@@ -2,7 +2,7 @@ import React,{Component} from 'react'
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import AppBar from 'material-ui/AppBar';
 import TextField from 'material-ui/TextField';
-import * as firebase from 'firebase'; 
+import firebase from 'firebase'; 
 import FlatButton from 'material-ui/FlatButton';
 import Paper from 'material-ui/Paper';
 import Logout from "../logout"

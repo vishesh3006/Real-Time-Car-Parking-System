@@ -4,7 +4,7 @@ import AppBar from 'material-ui/AppBar';
 import RaisedButton from 'material-ui/RaisedButton';
 import TextField from 'material-ui/TextField';
 import Paper from 'material-ui/Paper';
-import * as firebase from 'firebase';
+import firebase from 'firebase';
 import App from '../App';
 import{
 BrowserRouter as Router,
